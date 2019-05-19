@@ -2,9 +2,9 @@
   "name": "w-select",
   "version": "0.1.0",
   "description": "Multiselect Component",
-  "homepage": "https://github.com/rogerwcast/project#readme",
-  "license" : "MIT",
-  "email" : "b@rubble.com",
+  "homepage": "https://github.com/wcast/vuemultiselect/#/README.md",
+  "license": "MIT",
+  "email": "rogerio.wcast@gmail.com",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
